@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8d50d0799da4c7486f09b061",
+  "owner": "resxpnwwj",
+  "repo": "page-0da4583694037df5154f8b1f",
+  "title": "隐秘网络(SCRTNET)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0da4583694037df5154f8b1f",
+      "a": "隐秘网络(SCRTNET)",
+      "b": "2027最新官网",
+      "entity": "隐秘网络(SCRTNET)",
+      "brand": "隐秘网络(SCRTNET)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "90b8ea14e41fc00638d5e75b899630a8e25fff5f0595018fd6e6eb292c285791",
+      "content": {
+        "primary_entity": "隐秘网络(SCRTNET)",
+        "keyword1": "隐秘网络(SCRTNET)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，再按客户端文档导入订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，隐秘网络(SCRTNET)提供按月与按年两种付费周期，基础版适合轻量浏览与短视频，旗舰版增加 IPLC 专线并优化游戏延迟，团队版面向多设备办公场景。订阅配置按客户端文档导入，设备数量与流量额度随套餐不同。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，适合多终端协作或小型办公场景。",
+          "AI_FEATURE_TEXT_3": "年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备数衡量",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_GUIDE_INTRO": "从选服务到完成订阅配置的三步。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "隐秘网络(SCRTNET)面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档套餐。旗舰版加入 IPLC 专线用于游戏加速，团队版支持 20 台设备同时在线。按设备系统选择客户端并导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备跨境加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付价格更省月费",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。年付分别约 ¥150、¥350、¥850。旗舰版含 IPLC 专线，团队版支持 20 台设备。先按设备数与月流量估算，再决定周期。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "按流量与同时在线设备数，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量上限、流量额度与线路类型，确认与自己的设备匹配。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅配置，完成连接。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "隐秘网络多档加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备、普通线路节点池，解锁基础流媒体；旗舰版每月 300GB、5 台设备，接入 IPLC 专线并支持全节点原生流媒体解锁，另有优先工单支持。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB、20 台设备同时在线，提供 VIP 专属高带宽节点与定制路由，适合小型团队共享或设备较多的办公环境，并配有专属客户经理。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850，年付相当于免去两个月费用。",
+          "AI_FAQ_QUESTION_4": "可以在哪些设备上使用？",
+          "AI_FAQ_ANSWER_4": "支持常见桌面与移动客户端，具体可在客户端文档中查看各平台说明。不同套餐允许同时在线的设备数量不同，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_QUESTION_5": "如何更换已选的套餐？",
+          "AI_FAQ_ANSWER_5": "可根据当前用量与设备变化升级到更高档位，具体调整方式以购买页说明为准。升级前建议先核对月流量与设备数量是否满足需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowrocketnp.com",
+    "host": "shadowrocketnp.com"
+  },
+  "file_hashes": {
+    "index.html": "1d27ef958b580536b89d008423f70f663db9d6d8f2a15185a58de5453febefda",
+    "sitemap.xml": "a3e58a5557c10020541b20863f44070bb6ff1d4517c611ce08c75cc99534ddb3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e397c047b3a0c9b20c663e39af12b42793b279160f1ec741d328451f7808dbca",
+    "robots.txt": "15aec99e8140d8f0f226a4943d6edf914375371cb1dba016eebe8e600dea05ff",
+    "60f285b0fd3f5beeffcee5eb34194dc2.txt": "d7a9c15b7feea7cbc5640d89626b94d9488c1b5d182a3b4f63f8cabe5affe8c2"
+  },
+  "revision": "77cf862881af24e2159461fdf8311c7b9e83f8edd75622fc4aaafd0e952720ee"
+}
